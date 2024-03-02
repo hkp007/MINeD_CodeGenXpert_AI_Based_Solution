@@ -17,18 +17,13 @@ User input text for code specification generation
 
 
 ### Requirements:
-Python 3.x
-TensorFlow
-Hugging Face Transformers Library
-Pandas
-NumPy
+Python 3.x | PyTorch | Hugging Face | Transformers Library | Pandas | NumPy | accelerate | peft | trl | bitsandbytes | wandb
 
 ### Install dependencies:
 
 !pip install -q -U transformers datasets accelerate peft trl bitsandbytes wandb
 
-
-### Usage:
+### Work flow:
 
 #### Dataset Creation:
 
